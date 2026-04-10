@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome!&section=header&fontColor=ffffff&fontSize=70&width=1200&customColorList=1,00CED1,9932CC" width="100%"/>
 </p>
 
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00CED1&center=true&vCenter=true&width=700&lines=Hi,+I'm+Laryssa!+👋;Frontend+Engineer;Technical+Project+Coordinator;Future+Tech+Lead" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00CED1&center=true&vCenter=true&width=700&lines=Hi,+I'm+Laryssa!+👋;Frontend+Engineer;Technical+Project+Coordinator;Tech+Lead" /> </p>
 
 <p align="center">
 💻 <b>Frontend Engineer</b> specializing in <b>React, JavaScript, and modern web development</b>. <br> 
